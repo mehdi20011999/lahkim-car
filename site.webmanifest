@@ -1,0 +1,9 @@
+{
+  "name": "Lahkim Car — Location de voitures Casablanca",
+  "short_name": "Lahkim Car",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf6ee",
+  "theme_color": "#2b4bb6",
+  "icons": [{ "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
